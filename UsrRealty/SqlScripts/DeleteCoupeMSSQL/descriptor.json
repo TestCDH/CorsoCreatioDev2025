@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "6a4004c5-c33f-b368-8b48-c42895f45a3d",
+    "Name": "DeleteCoupeMSSQL",
+    "DBEngineType": 0,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1744814519000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}
