@@ -2,7 +2,7 @@
 <Resources Culture="en-US">
 	<Group Type="String">
 		<Items>
-			<Item Name="AddonConfig.Rules.b5836997-e8b8-6255-5827-dd3b971374e4.Caption" Value="Show elements: Comment" />
+			<Item Name="AddonConfig.Rules.e131cca6-f7b2-add0-5e45-d3ecd03b233d.Caption" Value="Show elements: Comment" />
 			<Item Name="Caption" Value="Realty form page (Business rules)" />
 		</Items>
 	</Group>

@@ -1,1 +1,1 @@
-ALTER TABLE [dbo].[SysAdminUnit] ENABLE TRIGGER [TRSysAdminUnitRoot]
+ALTER TABLE [dbo].[SysAdminUnit] ENABLE TRIGGER [TRSysAdminUnitRoot] 
